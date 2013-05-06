@@ -298,7 +298,7 @@ a.more {
   margin: 0 0 1em 0.5em;
 }
 
-@media (min-device-width: 740px) and (min-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation: landscape) {
+@media screen and (min-width: 740px) and (orientation: landscape) {
   .grid-5, .grid-6, .grid-9, .grid-11, .grid-17 {
     float: left;
     display: inline;
@@ -450,7 +450,7 @@ a.more {
     width: 340px;
   }
 }
-@media (min-device-width: 980px) and (min-width: 980px), (max-device-width: 1024px) and (min-width: 1024px) and (orientation: landscape) {
+@media screen and (min-width: 1024px) and (orientation: landscape) {
   .grid-5 {
     width: 180px;
   }
