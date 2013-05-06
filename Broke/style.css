@@ -527,4 +527,7 @@ a.more {
   #zone-footer #mini-panel-footer_menus .panel-pane.pane-geography-footer-menu {
     width: 440px;
   }
+  #zone-footer #region-footer-first #block-menu-block-2 {
+    display: none;
+  }
 }
