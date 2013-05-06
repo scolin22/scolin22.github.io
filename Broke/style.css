@@ -528,7 +528,7 @@ a.more {
     width: 440px;
   }
   #block-menu-block-2 {
-    margin: 0px;
+    width: 0px;
     display: none;
   }
 }
