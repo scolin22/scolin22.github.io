@@ -189,7 +189,7 @@ a.more {
   content: "";
 }
 #zone-footer #region-footer-first #block-menu-block-2 {
-  visibility: hidden;
+  display: none;
 }
 #zone-footer #mini-panel-footer_menus {
   margin: 0px;
@@ -408,7 +408,7 @@ a.more {
     display: none;
   }
   #zone-footer #region-footer-first #block-menu-block-2 {
-    visibility: hidden;
+    display: none;
   }
   #zone-footer #mini-panel-footer_menus .panel-pane,
   #zone-footer #mini-panel-footer_menus .pane-views {
