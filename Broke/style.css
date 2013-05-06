@@ -422,7 +422,7 @@ a.more {
   #zone-footer #region-footer-first #block-akdn-custom-ac-lang-switch {
     display: none;
   }
-  #zone-footer #region-footer-first #block-menu-block-2 {
+  #block-menu-block-2 {
     display: none;
   }
   #zone-footer #mini-panel-footer_menus .panel-pane,
@@ -527,7 +527,7 @@ a.more {
   #zone-footer #mini-panel-footer_menus .panel-pane.pane-geography-footer-menu {
     width: 440px;
   }
-  #zone-footer #region-footer-first #block-menu-block-2 {
+  #block-menu-block-2 {
     display: none;
   }
 }
